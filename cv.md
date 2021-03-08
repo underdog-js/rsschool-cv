@@ -1,9 +1,9 @@
 # Aliaksei Radchanka
-Brussels, Belgium</br>
-+32497110715</br>
+Brussels, Belgium </br>
++32497110715 </br>
 radchanka@protonmail.com
 
-### Professional summary</br>
+### Professional summary </br>
 Junior Web Developer with a passion for web application development. Highly self-motivated and adaptable to learning and understanding new technologies. Being able to read and write technical English, as well as being able to stand a basic English conversation with customers, colleagues, and partners.
 
 ### Technical skills
@@ -36,7 +36,7 @@ Calculator(){
   ```
   
  ### Education
- Belarusian State University, Minsk 2012</br>
+ Belarusian State University, Minsk 2012 </br>
  Bachelor Degree in Science : Mathematics
  
  
