@@ -1,0 +1,15 @@
+h3{
+    border: 1px solid black;
+    display: inline-block;
+}
+.my-code {
+    background-color: aqua;
+    display: inline-block;
+}
+.my-image {
+border-radius: 200px;
+}
+.my-div {
+align-items: center;
+
+}
