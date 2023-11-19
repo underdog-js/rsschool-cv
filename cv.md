@@ -5,8 +5,8 @@
 
 ## Contact information:
 
- -**E-mail**: radchanka@gmail.com
- -**Telegram**: @alex_r44
+ - **E-mail**: radchanka@gmail.com
+ - **Telegram**: @alex_r44
 
 
 ## About me:
@@ -50,8 +50,8 @@ function fakeBin(x){
 
 ## Education
 
--Web Development, Intec Brussels
--Belarusian State University, Mechanics and Mathematics faculty
+- Web Development, Intec Brussels
+- Belarusian State University, Mechanics and Mathematics faculty
 
 
 ## Languages
