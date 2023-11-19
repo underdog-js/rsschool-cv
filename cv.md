@@ -20,7 +20,7 @@ for new challenges and the opportunity to apply my skills to
 create amazing web products.
 
 
-## Skills
+## Skills:
 
 - HTML
 - CSS
@@ -28,7 +28,7 @@ create amazing web products.
 - Git
 
 
-## Code Example
+## Code Example:
 
 *Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.*
 
@@ -48,13 +48,13 @@ function fakeBin(x){
 ```
 
 
-## Education
+## Education:
 
 - Web Development, Intec Brussels
 - Belarusian State University, Mechanics and Mathematics faculty
 
 
-## Languages
+## Languages:
 
 - Belarusian (native)
 - English (B1)
